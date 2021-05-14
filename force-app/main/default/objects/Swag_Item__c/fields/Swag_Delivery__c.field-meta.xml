@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Swag_Delivery__c</fullName>
+    <externalId>false</externalId>
+    <label>Swag Delivery</label>
+    <referenceTo>Swag_Delivery__c</referenceTo>
+    <relationshipLabel>Swag Items</relationshipLabel>
+    <relationshipName>Swag_Items</relationshipName>
+    <relationshipOrder>0</relationshipOrder>
+    <reparentableMasterDetail>false</reparentableMasterDetail>
+    <trackTrending>false</trackTrending>
+    <type>MasterDetail</type>
+    <writeRequiresMasterRead>false</writeRequiresMasterRead>
+</CustomField>
